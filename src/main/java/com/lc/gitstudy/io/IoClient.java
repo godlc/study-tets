@@ -13,6 +13,7 @@ import java.util.Date;
  * @date 2019/7/29 16:08
  */
 public class IoClient {
+
     private Socket socket = new Socket();
 
     public IoClient() throws IOException {
